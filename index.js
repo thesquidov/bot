@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Вступай в Lawrence famq💫"];
+const statusMessages = ["Вступай в One famq💫"];
 
 
 let currentIndex = 0;
